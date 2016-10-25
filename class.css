@@ -1,0 +1,40 @@
+body{
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.going-green{
+    color: green;
+}
+
+.going-silver{
+    background-color: silver;
+}
+
+#the-head{
+    text-align: center;
+    text-shadow: 2px 2px #FFC300;
+}
+
+.pretty-button{
+    background-color: coral;
+    text-align: center;
+    font-size: 14px;
+    border: none;
+    padding: 20px 30px;
+    color: white;
+}
+
+.prettier{
+    background-color: darkcyan;
+    box-shadow: 5px 5px 20px 0px rgba(0,0,0,0.75);
+}
+
+.content{
+    height: 100px;
+    width: 500px;
+    background-color: bisque;
+    text-align: center;
+    border: 2px solid darkcyan;
+    margin-left: 100px;
+    
+}
