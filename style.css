@@ -1,0 +1,44 @@
+body {
+    background-color: #f0faf0e3;
+    font-family: 'Poppins', sans-serif;
+    padding: 120px;
+    color: #0000009f;
+}
+
+.hello {
+    font-size: 20px;
+    color: #875C74;
+}
+
+img {
+    width: 70%;
+}
+
+.flex-container {
+    display: flex;
+}
+
+.flex-text-right{
+    flex: 1 30%;
+    align-items: center;
+    text-align: center;
+}
+
+.flex-text-left{
+    flex: 1 70%;
+}
+
+.social-links {
+    text-align: center;
+    color: #93b88e;
+    font-size: 30px;
+}
+
+.any-link {
+    color: #93b88e;
+}
+
+.big-name {
+    color: #875C74;
+}
+
